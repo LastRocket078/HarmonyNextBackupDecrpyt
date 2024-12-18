@@ -1,0 +1,122 @@
+[
+	{
+		"fileName" : "2c1dabac323153aa",
+		"information" : 
+		{
+			"path" : "data/storage/el2/base/files/render/dl_sql_sdmap/gbv4.ans",
+			"stat" : 
+			{
+				"st_atim" : 
+				{
+					"tv_nsec" : 472562424,
+					"tv_sec" : 1732341073
+				},
+				"st_mode" : 33188,
+				"st_mtim" : 
+				{
+					"tv_nsec" : 445116645,
+					"tv_sec" : 1732764790
+				},
+				"st_size" : 3080192
+			}
+		},
+		"isBigFile" : true,
+		"isUserTar" : false
+	},
+	{
+		"fileName" : "42191011c90d920d",
+		"information" : 
+		{
+			"path" : "data/storage/el2/base/files/map_data/res/overseas.db",
+			"stat" : 
+			{
+				"st_atim" : 
+				{
+					"tv_nsec" : 516560341,
+					"tv_sec" : 1732341072
+				},
+				"st_mode" : 33204,
+				"st_mtim" : 
+				{
+					"tv_nsec" : 576556174,
+					"tv_sec" : 1732341072
+				},
+				"st_size" : 4908764
+			}
+		},
+		"isBigFile" : true,
+		"isUserTar" : false
+	},
+	{
+		"fileName" : "fa6ab5171ceb641d",
+		"information" : 
+		{
+			"path" : "data/storage/el2/base/files/render/cache_sql_serialize/roads.ans",
+			"stat" : 
+			{
+				"st_atim" : 
+				{
+					"tv_nsec" : 524560862,
+					"tv_sec" : 1732341073
+				},
+				"st_mode" : 33188,
+				"st_mtim" : 
+				{
+					"tv_nsec" : 204561900,
+					"tv_sec" : 1732341093
+				},
+				"st_size" : 24805376
+			}
+		},
+		"isBigFile" : true,
+		"isUserTar" : false
+	},
+	{
+		"fileName" : "fe8ef2ecdf806acb",
+		"information" : 
+		{
+			"path" : "data/storage/el2/base/files/render/cache_sql_texture/texture_cache_1.ans",
+			"stat" : 
+			{
+				"st_atim" : 
+				{
+					"tv_nsec" : 748911443,
+					"tv_sec" : 1732764744
+				},
+				"st_mode" : 33188,
+				"st_mtim" : 
+				{
+					"tv_nsec" : 252907268,
+					"tv_sec" : 1732764801
+				},
+				"st_size" : 3399680
+			}
+		},
+		"isBigFile" : true,
+		"isUserTar" : false
+	},
+	{
+		"fileName" : "part.0.tar",
+		"information" : 
+		{
+			"path" : "/data/storage/el2/base/.backup/backup/part.0.tar",
+			"stat" : 
+			{
+				"st_atim" : 
+				{
+					"tv_nsec" : 364914028,
+					"tv_sec" : 1732764870
+				},
+				"st_mode" : 33204,
+				"st_mtim" : 
+				{
+					"tv_nsec" : 684907778,
+					"tv_sec" : 1732764870
+				},
+				"st_size" : 29468672
+			}
+		},
+		"isBigFile" : false,
+		"isUserTar" : false
+	}
+]
